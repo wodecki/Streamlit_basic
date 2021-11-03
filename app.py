@@ -1,4 +1,4 @@
 import streamlit as st
 import pandas as pd
 
-st.write(""" Cześć stary!""")
+st.write(""" Cześć Andrzej!""")
