@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.write(""" Cześć Ewa!""")
+st.write(""" Cześć Tomaszu!""")
